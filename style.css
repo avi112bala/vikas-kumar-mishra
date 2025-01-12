@@ -641,3 +641,25 @@ button:focus {
     font-size: 18px !important;
   }
 }
+
+@media (max-width: 385px) {
+  .section-heading span {
+    font-size: 31px;
+  }
+
+  .credit {
+    font-size: 11px !important;
+  }
+
+  #my-details-container h3 {
+    font-size: 16px;
+  }
+
+  .my-details-info-container span {
+    font-size: 9px;
+  }
+
+  .my-details-info-container i {
+    font-size: 9px;
+  }
+}
